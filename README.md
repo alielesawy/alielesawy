@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ali El-esawy</h1>
-<h3 align="center">A passionate Backend developer from Egypt</h3>
+<h3 align="center">A passionate Software Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alielesawy&label=Profile%20views&color=0e75b6&style=flat" alt="alielesawy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alielesawy" alt="alielesawy" /></a> </p>
 
-- 🔭 I’m currently working on [Calculate Machine age](https://github.com/alielesawy/How-old-are-my-PC)
+- 🌱 I’m currently learning **Java web development**
 
-- 🌱 I’m currently learning **Back-end**
-
-- 🤝 I’m looking for help with **Web developer**
+- 🤝 I’m looking for help with **Software development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alielesawy](https://github.com/alielesawy)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/alielesawy/](https://www.linkedin.com/in/alielesawy/)
 
-- 💬 Ask me about **Java or c++**
+- 💬 Ask me about **Java , c++ or Algorithm**
 
 - 📫 How to reach me **alielesawy811@gmail.com**
 
