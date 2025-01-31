@@ -1,36 +1,67 @@
-<h1 align="center">Hi 👋, I'm Ali El-esawy</h1>
-<h3 align="center">A passionate Software Engineer </h3>
+<!-- README.md -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alielesawy&label=Profile%20views&color=0e75b6&style=flat" alt="alielesawy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alielesawy" alt="alielesawy" /></a> </p>
-
-- 🌱 I’m currently learning **Java web development**
-
-- 🤝 I’m looking for help with **Software development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/alielesawy](https://github.com/alielesawy)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/alielesawy/](https://www.linkedin.com/in/alielesawy/)
-
-- 💬 Ask me about **Java , c++ or Algorithm**
-
-- 📫 How to reach me **alielesawy811@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mPDWItRm5EIdK05MPyFD_3FjP96Ctu_Y/view?usp=sharing](https://drive.google.com/file/d/1mPDWItRm5EIdK05MPyFD_3FjP96Ctu_Y/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alielesawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alielesawy" height="30" width="40" /></a>
-<a href="https://fb.com/alielesawy00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alielesawy00" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ali_elesawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ali_elesawy" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ali+El-esawy!;Software+Engineer+%7C+Java+%7C+DevOps;Open+Source+Contributor+%7C+Tech+Blogger" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alielesawy&label=Profile%20views&color=42A5F5&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/alielesawy?label=Followers&style=social" alt="GitHub Followers" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alielesawy&show_icons=true&locale=en&layout=compact" alt="alielesawy" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alielesawy&show_icons=true&locale=en" alt="alielesawy" /></p>
+### 🚀 About Me
+- 🎓 **Software Engineer** with a passion for **Java, C++, and DevOps**
+- 🌱 Currently learning **Java Web Development & Cloud Technologies**
+- 💡 Open to **collaborations** on **Software Development Projects**
+- ✍️ I regularly write tech blogs on [My Blog](https://blog.aliesmail.tech)  
+- 🌍 Check out my **[Portfolio](https://aliesmail.tech)**  
+- 📫 Reach me at **alielesawy811@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alielesawy&" alt="alielesawy" /></p>
+---
+
+### 🛠️ Tech Stack
+
+#### **Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+#### **DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-89CFF0?style=for-the-badge&logo=podman&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alielesawy&show_icons=true&theme=tokyonight" width="400px" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alielesawy&" alt="alielesawy" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alielesawy&layout=compact&theme=tokyonight" width="400px" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/alielesawy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/alielesawy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
